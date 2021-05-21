@@ -10,7 +10,7 @@ API_SECRET = "62f8ce9f74b12f84c123cc23437a4a32"
 
 __banner__ = """
        +=======================================+
-       |..........Jair rios........|
+       |..........jair rios........|
        +---------------------------------------+
         |#Autor: Vampy Security  |
         #Contacto: 7471512756
@@ -20,7 +20,7 @@ __banner__ = """
         #desde el Mar de Bolivia
         #No me hago responsable del 
         #Mal uso que se le de +=======================================+
-       |..........mar de bolivia.........|
+       |..........jair rios.........|
        +---------------------------------------+
 """
 
